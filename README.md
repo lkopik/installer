@@ -1,4 +1,5 @@
-# installer
+# install
+sudo su
 
 apt install git
 
