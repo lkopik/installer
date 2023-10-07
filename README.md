@@ -1,3 +1,8 @@
+#что это?
+Это программа установщик моих любимых программ на debian (Ubuntu)
+
+
+
 # install
 sudo su
 
@@ -12,3 +17,8 @@ chmod +x install.sh
 exit
 
 ./install
+
+
+
+
+
