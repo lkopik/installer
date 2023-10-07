@@ -9,7 +9,7 @@ apt install -y htop mc nmap openssh-server wine neofetch snap
 apt install -y blender 
 #notdeafult(snap)
 snap install telegram-desktop pycharm-community --classic
-
+sudo snap install spotify
 
 #exit
 exit
